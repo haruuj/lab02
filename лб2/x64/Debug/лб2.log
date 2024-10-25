@@ -1,4 +1,4 @@
 ﻿  лб2.0.cpp
-D:\student\лб2\лб2\лб2.0.cpp(9,10): error C2143: syntax error: missing ';' before '<<'
-D:\student\лб2\лб2\лб2.0.cpp(14,10): error C2296: '<<': not valid as left operand has type 'double'
-D:\student\лб2\лб2\лб2.0.cpp(14,10): error C2297: '<<': not valid as right operand has type 'const char [6]'
+D:\student\лб2\лб2\лб2.0.cpp(7,9): error C2062: type 'double' unexpected
+D:\student\лб2\лб2\лб2.0.cpp(13,5): error C2065: 'z2': undeclared identifier
+D:\student\лб2\лб2\лб2.0.cpp(15,24): error C2065: 'z2': undeclared identifier
