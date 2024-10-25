@@ -1,0 +1,4 @@
+﻿  лб2.0.cpp
+D:\student\лб2\лб2\лб2.0.cpp(9,10): error C2143: syntax error: missing ';' before '<<'
+D:\student\лб2\лб2\лб2.0.cpp(14,10): error C2296: '<<': not valid as left operand has type 'double'
+D:\student\лб2\лб2\лб2.0.cpp(14,10): error C2297: '<<': not valid as right operand has type 'const char [6]'
